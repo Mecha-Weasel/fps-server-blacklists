@@ -1,3 +1,4 @@
+@echo off
 rem
 rem
 rem	Windows firewall rules for game-server blacklisting ...
