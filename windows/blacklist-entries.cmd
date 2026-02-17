@@ -89,12 +89,12 @@ netsh advfirewall firewall add rule name="CS1 server spammer: 95.214.180.181" di
 rem
 rem		Rules blocking OUT-bound traffic TO designated IP addresses ...
 rem
-netsh advfirewall firewall add rule name="Half-Life (HL1) server spammer: 5.199.143.147" dir=out action=block remoteip=5.199.143.147
-netsh advfirewall firewall add rule name="Half-Life (HL1) server spammer: 81.30.156.78" dir=out action=block remoteip=81.30.156.78
-netsh advfirewall firewall add rule name="Half-Life (HL1) server spammer: 89.144.30.142" dir=out action=block remoteip=89.144.30.142
-netsh advfirewall firewall add rule name="Half-Life (HL1) server spammer: 89.163.157.250" dir=out action=block remoteip=89.163.157.250
-netsh advfirewall firewall add rule name="Half-Life (HL1) server spammer: 181.214.231.107" dir=out action=block remoteip=181.214.231.107
-netsh advfirewall firewall add rule name="Half-Life (HL1) server spammer: 213.202.222.75" dir=out action=block remoteip=213.202.222.75
+netsh advfirewall firewall add rule name="HL1 server spammer: 5.199.143.147" dir=out action=block remoteip=5.199.143.147
+netsh advfirewall firewall add rule name="HL1 server spammer: 81.30.156.78" dir=out action=block remoteip=81.30.156.78
+netsh advfirewall firewall add rule name="HL1 server spammer: 89.144.30.142" dir=out action=block remoteip=89.144.30.142
+netsh advfirewall firewall add rule name="HL1 server spammer: 89.163.157.250" dir=out action=block remoteip=89.163.157.250
+netsh advfirewall firewall add rule name="HL1 server spammer: 181.214.231.107" dir=out action=block remoteip=181.214.231.107
+netsh advfirewall firewall add rule name="HL1 server spammer: 213.202.222.75" dir=out action=block remoteip=213.202.222.75
 netsh advfirewall firewall add rule name="CS1 server spammer: 2.59.161.176" dir=out action=block remoteip=2.59.161.176
 netsh advfirewall firewall add rule name="CS1 server spammer: 5.35.80.4" dir=out action=block remoteip=5.35.80.4
 netsh advfirewall firewall add rule name="CS1 server spammer: 5.35.80.15" dir=out action=block remoteip=5.35.80.15
