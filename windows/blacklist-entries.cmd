@@ -12,7 +12,7 @@ netsh advfirewall firewall add rule name="Half-Life (HL1) server spammer, added 
 netsh advfirewall firewall add rule name="Half-Life (HL1) server spammer, added 2026-02-16" dir=in action=block remoteip=181.214.231.107
 netsh advfirewall firewall add rule name="Half-Life (HL1) server spammer, added 2026-02-16" dir=in action=block remoteip=213.202.222.75
 netsh advfirewall firewall add rule name="Counter-Strike (CS1) server spammer, added 2026-02-16" dir=in action=block remoteip=2.59.161.176
-netsh advfirewall firewall add rule name="Counter-Strike (CS1) server spammer, added 2026-02-16 (possible false-positive)" dir=in action=block remoteip=5.35.80.4
+netsh advfirewall firewall add rule name="Counter-Strike (CS1) server spammer, added 2026-02-16" dir=in action=block remoteip=5.35.80.4
 netsh advfirewall firewall add rule name="Counter-Strike (CS1) server spammer, added 2026-02-16" dir=in action=block remoteip=5.35.80.15
 netsh advfirewall firewall add rule name="Counter-Strike (CS1) server spammer, added 2026-02-16" dir=in action=block remoteip=5.35.80.240
 netsh advfirewall firewall add rule name="Counter-Strike (CS1) server spammer, added 2026-02-16" dir=in action=block remoteip=5.35.80.240
@@ -98,7 +98,7 @@ netsh advfirewall firewall add rule name="Half-Life (HL1) server spammer, added 
 netsh advfirewall firewall add rule name="Half-Life (HL1) server spammer, added 2026-02-16" dir=out action=block remoteip=181.214.231.107
 netsh advfirewall firewall add rule name="Half-Life (HL1) server spammer, added 2026-02-16" dir=out action=block remoteip=213.202.222.75
 netsh advfirewall firewall add rule name="Counter-Strike (CS1) server spammer, added 2026-02-16" dir=out action=block remoteip=2.59.161.176
-netsh advfirewall firewall add rule name="Counter-Strike (CS1) server spammer, added 2026-02-16 (possible false-positive)" dir=out action=block remoteip=5.35.80.4
+netsh advfirewall firewall add rule name="Counter-Strike (CS1) server spammer, added 2026-02-16" dir=out action=block remoteip=5.35.80.4
 netsh advfirewall firewall add rule name="Counter-Strike (CS1) server spammer, added 2026-02-16" dir=out action=block remoteip=5.35.80.15
 netsh advfirewall firewall add rule name="Counter-Strike (CS1) server spammer, added 2026-02-16" dir=out action=block remoteip=5.35.80.240
 netsh advfirewall firewall add rule name="Counter-Strike (CS1) server spammer, added 2026-02-16" dir=out action=block remoteip=5.35.80.240

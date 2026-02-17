@@ -1,5 +1,5 @@
 2.59.161.176	Counter-Strike (CS1) server spammer, added 2026-02-16
-5.35.80.4	Counter-Strike (CS1) server spammer, added 2026-02-16 (possible false-positive)
+5.35.80.4	Counter-Strike (CS1) server spammer, added 2026-02-16
 5.35.80.15	Counter-Strike (CS1) server spammer, added 2026-02-16
 5.35.80.240	Counter-Strike (CS1) server spammer, added 2026-02-16
 5.35.80.240	Counter-Strike (CS1) server spammer, added 2026-02-16

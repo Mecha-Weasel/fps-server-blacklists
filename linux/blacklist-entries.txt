@@ -5,7 +5,7 @@
 181.214.231.107	Half-Life (HL1) server spammer, added 2026-02-16
 213.202.222.75	Half-Life (HL1) server spammer, added 2026-02-16
 2.59.161.176	Counter-Strike (CS1) server spammer, added 2026-02-16
-5.35.80.4	Counter-Strike (CS1) server spammer, added 2026-02-16 (possible false-positive)
+5.35.80.4	Counter-Strike (CS1) server spammer, added 2026-02-16
 5.35.80.15	Counter-Strike (CS1) server spammer, added 2026-02-16
 5.35.80.240	Counter-Strike (CS1) server spammer, added 2026-02-16
 5.35.80.240	Counter-Strike (CS1) server spammer, added 2026-02-16
