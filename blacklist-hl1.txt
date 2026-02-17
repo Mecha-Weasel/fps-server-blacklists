@@ -1,7 +1,7 @@
-5.199.143.147	Half-Life (HL1) server spammer
-81.30.156.78	Half-Life (HL1) server spammer
-89.144.30.142	Half-Life (HL1) server spammer
-89.163.157.250	Half-Life (HL1) server spammer
-181.214.231.107	Half-Life (HL1) server spammer
-213.202.222.75	Half-Life (HL1) server spammer
+5.199.143.147	HL1 server spammer
+81.30.156.78	HL1 server spammer
+89.144.30.142	HL1 server spammer
+89.163.157.250	HL1 server spammer
+181.214.231.107	HL1 server spammer
+213.202.222.75	HL1 server spammer
 
