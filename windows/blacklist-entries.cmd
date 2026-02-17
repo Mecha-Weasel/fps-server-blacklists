@@ -86,7 +86,7 @@ netsh advfirewall firewall add rule name="CS1 server spammer: 89.163.157.241" di
 netsh advfirewall firewall add rule name="CS1 server spammer: 62.141.32.149" dir=in action=block remoteip=62.141.32.149
 netsh advfirewall firewall add rule name="CS1 server spammer: 2.59.135.45" dir=in action=block remoteip=2.59.135.45
 netsh advfirewall firewall add rule name="CS1 server spammer: 82.27.2.53" dir=in action=block remoteip=82.27.2.53
-netsh advfirewall firewall add rule name="CS1 server spammer: 95.214.180.181" dir=in action=block remoteip=95.214.180.181rem
+netsh advfirewall firewall add rule name="CS1 server spammer: 95.214.180.181" dir=in action=block remoteip=95.214.180.181
 rem
 rem		Rules blocking OUT-bound traffic TO designated IP addresses ...
 rem
@@ -172,7 +172,7 @@ netsh advfirewall firewall add rule name="CS1 server spammer: 89.163.157.241" di
 netsh advfirewall firewall add rule name="CS1 server spammer: 62.141.32.149" dir=out action=block remoteip=62.141.32.149
 netsh advfirewall firewall add rule name="CS1 server spammer: 2.59.135.45" dir=out action=block remoteip=2.59.135.45
 netsh advfirewall firewall add rule name="CS1 server spammer: 82.27.2.53" dir=out action=block remoteip=82.27.2.53
-netsh advfirewall firewall add rule name="CS1 server spammer: 95.214.180.181" dir=out action=block remoteip=95.214.180.181rem
+netsh advfirewall firewall add rule name="CS1 server spammer: 95.214.180.181" dir=out action=block remoteip=95.214.180.181
 rem
 rem	... that's all folks!
 rem
